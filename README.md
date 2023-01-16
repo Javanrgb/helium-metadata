@@ -1,4 +1,4 @@
-# IHS South Sudan Bahmni Metadata
+# Helium Metadata
 
 ## Description
 
