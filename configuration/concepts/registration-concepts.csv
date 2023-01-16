@@ -1,0 +1,10 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:1,Data class,Data type,Answers
+5c57e0f3-d12a-4806-b6c3-b5ef588cdc32,,Parent,,,,,,Misc,N/A,
+1889f7fa-0339-4ed6-b177-da9375474bfa,,Sibling,,,,,,Misc,N/A,
+b87a30e8-7916-43d2-907e-78dd9d255a9d,,nextOfKinRelationshipType,Next Of Kin Relationship type,,,,,Question,Coded,"Parent;
+Sibling"
+d5a9d704-9193-4d76-abd0-2907ff21975f,,SelfSponsored,Self Sponsored,,,,,Misc,N/A,
+31c551fb-132b-42ee-a704-e4d364e7f0e2,,CoveredByInsurance,Covered By Insurance,,,,,Misc,N/A,
+8f82e4d5-7af1-4877-b24b-1e040a394689,,SponsorshipType,Sponsorship Type,,,,,Question,Coded,"SelfSponsored;
+CoveredByInsurance"
+49be3083-4191-4774-b943-8de3bbc05258,,InsuranceCompany,Insurance Company,,,,,Question,Coded,
