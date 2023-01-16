@@ -1,0 +1,8 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:2,Data class,Data type,Answers
+d5a9d704-9193-4d76-abd0-2907ff21975f,,Self Sponsored,Self Sponsored,,,,,Misc,N/A,
+31c551fb-132b-42ee-a704-e4d364e7f0e2,,Covered By Insurance,Covered By Insurance,,,,,Misc,N/A,
+8f82e4d5-7af1-4877-b24b-1e040a394689,,Sponsorship Type,Sponsorship Type,,,,,Question,Coded,"Self Sponsored;
+Covered By Insurance"
+6ff950d4-3669-4c3d-8243-595f8acf7042,,Insurance Company Name,Insurance Company Name,,,,,Question,Text,
+c4763fcb-6ed5-4a55-af37-f741c0a049ed,,Consultation Fee,Consultation Fee,,,,,Question,Numeric,
+347bb638-9212-437c-8b66-17dfa0653bea,,Payment Information,,,,,,Misc,N/A,
