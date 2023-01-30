@@ -12,5 +12,21 @@
 	<property>SchedulerMarksMissed</property>
       <value>true</value>
     </globalProperty>
+    <globalProperty>
+    <property>RegistrationFee</property>
+      <value>150</value>
+    </globalProperty>
+    <globalProperty>
+    <property>GOPDServiceFee</property>
+      <value>100</value>
+    </globalProperty>
+    <globalProperty>
+    <property>SurgeryServiceFee</property>
+      <value>200</value>
+    </globalProperty>
+    <globalProperty>
+    <property>PediatricsServiceFee</property>
+      <value>300</value>
+    </globalProperty>
   </globalProperties>
 </config>
