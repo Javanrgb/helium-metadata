@@ -3,3 +3,7 @@ Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_versi
 1889f7fa-0339-4ed6-b177-da9375474bfa,,Sibling,,,,,,Misc,N/A,
 b87a30e8-7916-43d2-907e-78dd9d255a9d,,nextOfKinRelationshipType,Next Of Kin Relationship type,,,,,Question,Coded,"Parent;
 Sibling"
+85068ff3-80e9-48e5-936e-6d27a57d4382,,payment_status_paid,Not Paid,,,,,Misc,N/A,
+7e061ef5-a425-4277-8bf6-2af13bfe563b,,payment_status_not_paid,Paid,,,,,Misc,N/A,
+69741aa1-9ef3-44b8-9c7f-8c4154a0aa60,,payment_status,Payment Status,,,,,Question,Coded,"payment_status_paid;
+payment_status_not_paid"
