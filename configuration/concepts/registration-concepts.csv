@@ -1,9 +1,9 @@
-Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:1,Data class,Data type,Answers
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:2,_order:1,Data class,Data type,Answers
 5c57e0f3-d12a-4806-b6c3-b5ef588cdc32,,Parent,,,,,,Misc,N/A,
 1889f7fa-0339-4ed6-b177-da9375474bfa,,Sibling,,,,,,Misc,N/A,
 b87a30e8-7916-43d2-907e-78dd9d255a9d,,nextOfKinRelationshipType,Next Of Kin Relationship type,,,,,Question,Coded,"Parent;
 Sibling"
-85068ff3-80e9-48e5-936e-6d27a57d4382,,payment_status_paid,Not Paid,,,,,Misc,N/A,
-7e061ef5-a425-4277-8bf6-2af13bfe563b,,payment_status_not_paid,Paid,,,,,Misc,N/A,
-69741aa1-9ef3-44b8-9c7f-8c4154a0aa60,,payment_status,Payment Status,,,,,Question,Coded,"payment_status_paid;
-payment_status_not_paid"
+0c5f12f3-f82f-4ce0-93b8-12eb49b63893,,Not Paid,Not Paid,,,,,Misc,N/A,
+bf291442-0770-4558-84cd-890c77bd1425,,Paid,Paid,,,,,Misc,N/A,
+d95e990b-d1ff-4356-9f91-62d184af15d8,,RegistrationPaymentStatus,,,,,,Question,Coded,"Not Paid;
+Paid"
