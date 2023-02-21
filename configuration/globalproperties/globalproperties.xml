@@ -32,5 +32,9 @@
     <property>DentistryServiceFee</property>
       <value>300</value>
     </globalProperty>
+    <globalProperty>
+    <property>MOPDServiceFee</property>
+      <value>400</value>
+    </globalProperty>
   </globalProperties>
 </config>
