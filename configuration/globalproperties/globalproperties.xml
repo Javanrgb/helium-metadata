@@ -28,5 +28,9 @@
     <property>PediatricsServiceFee</property>
       <value>300</value>
     </globalProperty>
+    <globalProperty>
+    <property>DentistryServiceFee</property>
+      <value>300</value>
+    </globalProperty>
   </globalProperties>
 </config>
