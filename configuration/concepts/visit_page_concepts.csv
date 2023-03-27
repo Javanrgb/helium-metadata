@@ -5,4 +5,7 @@ d5a9d704-9193-4d76-abd0-2907ff21975f,,Self Sponsored,Self Sponsored,,,,,Misc,N/A
 Covered By Insurance"
 6ff950d4-3669-4c3d-8243-595f8acf7042,,Insurance Company Name,Insurance Company Name,,,,,Question,Text,
 c4763fcb-6ed5-4a55-af37-f741c0a049ed,,Consultation Fee,Consultation Fee,,,,,Question,Numeric,
+643de9a3-564e-464e-9705-d3c1bf60b1d9,,Service Fee Status,Service Fee Status,,,,,Question,Text,
+9f408958-019a-4dfd-9755-a87cf6a37520,,Exempt Payment True,Yes,,,,,Misc,N/A,
+ccc74ed4-f64d-4c60-b3e6-e7fd7da08487,,Exempt Payment,,,,,,Question,Coded,Exempt Payment True
 347bb638-9212-437c-8b66-17dfa0653bea,,Payment Information,,,,,,Misc,N/A,

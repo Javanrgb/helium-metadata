@@ -1,3 +1,6 @@
-Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:1001
+Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,_version:1,_order:8
 1be45b74-8966-4c6f-b079-391ffca13e27,,,National Insurance Number,,Question,Numeric,,
-c446af3d-3f10-11e4-adec-0800271c1b75,,Sponsorship Type;Insurance Company Name;Consultation Fee;COMMENTS,Fee Information,Consultation Information,ConvSet,N/A,,
+643de9a3-564e-464e-9705-d3c1bf60b1d9,,,Service Fee Status,Payment Status,Question,Text,,
+9f408958-019a-4dfd-9755-a87cf6a37520,,,Exempt Payment True,Yes,Misc,N/A,,
+ccc74ed4-f64d-4c60-b3e6-e7fd7da08487,Exempt Payment True,,Exempt Payment,,Question,Coded,,
+c446af3d-3f10-11e4-adec-0800271c1b75,,Sponsorship Type;Insurance Company Name;Exempt Payment;Consultation Fee;Service Fee Status;COMMENTS,Fee Information,Consultation Information,ConvSet,N/A,,

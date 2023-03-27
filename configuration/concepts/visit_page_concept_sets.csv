@@ -2,4 +2,6 @@ Uuid,Answers,Members,Fully specified name:en,Short name:en,Data class,Data type,
 8f82e4d5-7af1-4877-b24b-1e040a394689,"Self Sponsored;
 Covered By Insurance",,Sponsorship Type,Sponsorship Type,Question,Coded,,
 49be3083-4191-4774-b943-8de3bbc05258,,,Insurance Company,Insurance Company,Question,Coded,,
-347bb638-9212-437c-8b66-17dfa0653bea,,Sponsorship Type; Insurance Company Name;Consultation Fee,Payment Information,,Misc,N/A,,
+9f408958-019a-4dfd-9755-a87cf6a37520,,,Exempt Payment True,Yes,Misc,N/A,,
+ccc74ed4-f64d-4c60-b3e6-e7fd7da08487,Exempt Payment True,,Exempt Payment,Exempt Payment,Question,Coded,,
+347bb638-9212-437c-8b66-17dfa0653bea,,Sponsorship Type; Insurance Company Name; Exempt Payment;Consultation Fee;Service Fee Status,Payment Information,,Misc,N/A,,
