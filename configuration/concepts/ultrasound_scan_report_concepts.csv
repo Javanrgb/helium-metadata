@@ -1,0 +1,68 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:16,Data class,Data type,Answers
+6569dafc-e371-4ed2-a690-309fc4b6ec1f,,singleton,singleton,,,,,Misc,N/A,
+ad011d41-652b-4bc0-9194-c1280bf0202b,,twins - fetus,twins,,,,,Misc,N/A,
+30882f7a-d87a-4cc6-adf5-58ab577de462,,other number of fetus,other,,,,,Misc,N/A,
+f571d7d7-7116-4881-b7cd-f594058192d6,,Number of fetus,,,,,,Question,Coded,"singleton;
+twins - fetus;
+other number of fetus"
+07f7a267-0788-4254-936a-4fa1a1d69135,,Longitudinal,Longitudinal,,,,,Misc,N/A,
+4f272837-2727-4d4b-bf47-58f21feda103,,Transverse - fetus,Transverse,,,,,Misc,N/A,
+22f7affd-7e90-4b96-b958-5450d33e3a1f,,Oblique - fetus,Oblique,,,,,Misc,N/A,
+74791e49-5c2e-4a17-8ee7-c5206d92aeed,,Lie of Fetus,,,,,,Question,Coded,"Longitudinal;
+Transverse;
+Oblique;"
+d1c4542f-efbf-4f0a-be9c-a7c71f678497,,Cephalic - fetus,Cephalic,,,,,Misc,N/A,
+704aa765-3ebf-4bc5-bfa1-c4b24d1d8b18,,Breech - fetus,Breech,,,,,Misc,N/A,
+baca70d2-7277-4d4c-b3b9-1ca566266a51,,Other fetus presentation,other,,,,,Misc,N/A,
+a2c961c5-cccd-4acc-bba5-ea3f6ffac06a,,Presentation of fetus,,,,,,Question,Coded,"Cephalic;
+Breech;
+Other fetus presentation;"
+783bc878-f1c9-465f-bd0b-0b049118c5a0,,Gestational SAC Diameter (GSD),GSD,,,,,Question,Numeric,
+5e42af9a-876f-444e-af2c-ead80ef0fdf4,,GSD weeks,GSD weeks,,,,,Question,Numeric,
+86ffc280-65e3-4e1c-b43d-181862e19b4b,,GSD Days,GSD Days,,,,,Question,Numeric,
+40b18da1-b6a8-45fa-a5e8-ed8f1982919e,,Crown Rump Legth (CRL),CRL,,,,,Question,Numeric,
+218a5abf-f7d1-411a-bec5-df379a1e20f4,,CRL weeks,CRL weeks,,,,,Question,Numeric,
+e6a89b65-4530-4660-893c-45ce309414e2,,Biparietal Diameter (BPD),BPD,,,,,Question,Numeric,
+976ce92f-7735-4401-b27c-b4a092173e3d,,BPD weeks,BPD weeks,,,,,Question,Numeric,
+0ace52e1-eb4f-4577-acf1-3776da33bb83,,BPD Days,BPD Days,,,,,Question,Numeric,
+1f7da07d-6892-4e22-bb52-c7a8112ddf48,,Head Circumference (HC),HC,,,,,Question,Numeric,
+de3fb35a-71c4-4fc5-ac32-a10d568aee9a,,HC weeks,HC weeks,,,,,Question,Numeric,
+b1ab1f17-c3a2-419c-92a1-b596526b6e5a,,HC Days,HC Days,,,,,Question,Numeric,
+25f86a6a-bb99-485d-a5ac-0ae0483980f4,,Abdominal Circumference (AC),AC,,,,,Question,Numeric,
+2e5eac29-66ca-4d5f-95a4-6eb44a8f27eb,,AC weeks,AC weeks,,,,,Question,Numeric,
+64b56fcd-be20-4145-b207-8d1b4fb00162,,AC Days,AC Days,,,,,Question,Numeric,
+b2660521-7fa7-4671-ae17-c0e70cde4206,,Femur Length (FL),FL,,,,,Question,Numeric,
+3f680d4d-c49c-45ac-893d-1f11dc64ac0c,,FL weeks,FL weeks,,,,,Question,Numeric,
+4858a047-577b-4bbf-aeb9-520bb85b0c33,,FL Days,FL Days,,,,,Question,Numeric,
+e21f0fb3-a510-4ae8-84e8-410c1636be76,,Mean Gestational Age,Mean Gestational Age,,,,,Question,Numeric,
+abaf5e3a-da08-46f6-b667-5d536bb0f050,,EDD,EDD,,,,,Question,Text,
+4f861ad0-5986-4cc5-9991-cf9df317fe1f,,Estimated Fetal Weight,Estimated Fetal Weight (Kg),,,,,Question,Numeric,
+24056bdf-e7db-468f-9dd9-065346117bf4,,Anterior - placenta,Anterior,,,,,Misc,N/A,
+fba4b388-139e-48f3-9170-95b2f1e1d2c1,,Posterior - placenta,Posterior,,,,,Misc,N/A,
+65e347b0-d011-4e79-97bb-fc4e11561445,,Fundal - placenta,Fundal,,,,,Misc,N/A,
+8e79a4d2-7cb3-4545-921f-09ef2d389e31,,placenta location,,,,,,Question,coded,"Anterior;
+Posterior;
+Fundal"
+998b56d3-9930-41e2-9bde-f50d227e2a78,,Left Lateral,Left Lateral,,,,,Misc,N/A,
+57aa79d7-aa75-416f-aec9-b873a9c64dc6,,Right Lateral,Right Lateral,,,,,Misc,N/A,
+c40b114f-d670-47c2-ab3c-18b345db1915,,side location of the placenta,,,,,,Question,coded,"Left Lateral;
+Right Lateral"
+0eb62a2f-ddbd-4a34-8160-8d1c8238b17c,,Placenta - Praevia,Praevia,,,,,Misc,N/A,
+76467220-a612-45bd-8e4e-5a4b8bd82ee0,,Placenta - Praevia Type,Praevia Type,,,,,Misc,Text,
+1b72cc2d-a3ec-4cc2-91e6-068142b4a115,,praevia condition,,,,,,Question,coded,"Praevia;
+Praevia Type"
+8457f2f1-3486-4163-98e1-8a5cdafbda49,,Closed cervical Os,Closed,,,,,Misc,N/A,
+26ab9250-675b-4ea8-8c4c-bca2b6e64caf,,Open crevical Os,Open,,,,,Misc,N/A,
+82e2b4cf-ce06-4293-b263-819c2cda63b4,,Cervical Os,,,,,,Question,Coded,"Closed;
+Open"
+a85a876d-5938-433a-bf9a-8ba52d3ab7dc,,Adequate liquid volume,Adequate,,,,,Misc,N/A,
+e393cb83-cd63-4687-a714-2abacebe9c10,,Reduced liquid volume,Reduced,,,,,Misc,N/A,
+6f6f6565-0163-4473-9b74-359b42c626b0,,Increases liquid volume,Increases,,,,,Misc,N/A,
+fc6582fc-3211-4ed0-995e-8364bb24cc32,,Liqual Volume,,,,,,Question,Coded,"Adequate;
+Reduced;
+Increases"
+b5e8e18c-3cc3-4a23-b9d8-04d14e7325ed,,Amniotic Fluid Index (AFI),AFI,,,,,Misc,Text,
+7e227e14-ec6d-42ca-8f8b-86e2050ed750,,NIL  fetal Anomalies,NIL,,,,,Misc,N/A,
+6f7ac25a-d25d-4883-a487-b2a7fe63cb0e,,Obvious fetal Anomalies,Obvious fetal Anomalies,,,,,Misc,N/A,
+8d33a749-d753-4433-a91b-5027f4203dd1,,Fetal Anomalies,,,,,,Question,Coded,"NIL  fetal Anomalies;
+Obvious fetal Anomalies"
