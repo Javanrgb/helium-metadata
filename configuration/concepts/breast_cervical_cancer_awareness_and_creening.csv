@@ -1,0 +1,88 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:17,Data class,Data type,Answers
+ab15e564-3109-4993-9631-5f185933f0fd,,Married,Married,,,,,Misc,N/A,
+fcf34be1-20fd-41b0-8562-8e123ed40145,,Widowed,Widowed,,,,,Misc,N/A,
+c7f6385c-e127-496b-91fb-79550acb3fd4,,Separated,Separated,,,,,Misc,N/A,
+54c4b7e3-3df0-41d2-bc64-ab566b402c8a,,Single,Single,,,,,Misc,N/A,
+97ebb351-9d55-4251-b27e-160193a2554c,,Marital Status,Marital Status,,,,,Question,Coded,"Married;
+Widowed;
+Separated;
+Single;"
+79eb6ea1-89f0-46af-aec8-4c1951cb25bb,,High Schoool,High Schoool,,,,,Misc,N/A,
+bba94c35-c41c-4ac4-b1e2-f6f34c00e15f,,Post Secondary School,Post Secondary School,,,,,Misc,N/A,
+c31893f8-9cd9-4378-a4aa-d626ec661f23,,Education,Education,,,,,Question,Coded,"Nil;
+Primary;
+High Schoool;
+Post Secondary School;"
+4bbcf881-4b58-47e8-986e-896aca693631,,Unskilled,Unskilled,,,,,Misc,N/A,
+74b1f43b-f457-4cdf-a2f0-91c1a4647bd1,,Semi-skilled,Semi-skilled,,,,,Misc,N/A,
+3c2209d0-9a50-4f1a-b76c-91ec9531323f,,Skilled,Skilled,,,,,Misc,N/A,
+e3416420-f301-4983-af74-02d036d39a5d,,Professional,Professional,,,,,Misc,N/A,
+a1ba76c4-dfa1-4599-97b1-55b5599a7ed6,,Occupation (Breast & Cervical Cancer),Occupation (Breast & Cervical Cancer),,,,,Question,Coded,"Unskilled;
+Semi-skilled;
+Skilled;
+Professional;"
+c3b5b34c-5805-4601-bd23-a334a54a1fd1,,Breast Cancer,Breast Cancer,,,,,Question,Coded,
+7b510337-384b-43ca-ae74-8d6e5c20ea47,,Cervical Cancer,Cervical Cancer,,,,,Question,Boolean,
+6884e5e5-51af-4e70-8689-9d57491d5b8f,,Lump,Lump,,,,,Question,Boolean,
+c79df08c-e925-480e-ae20-326eb42ff508,,Discharge (Breast and Cervical Cancer),Discharge,,,,,Question,Boolean,
+db0e3880-a6c0-4411-8abe-be9923777094,,Breast Surgery (Breast and Cervical Cancer),Breast Surgery,,,,,Question,Boolean,
+790927b6-9686-4525-b4ea-4b0d077cbc8a,,Swelling (Breast and Cervical Cancer),Swelling,,,,,Question,Boolean,
+d103d44f-6b13-457c-8da6-8161b08bd3a5,,< 12 hours,< 12 hours,,,,,Misc,N/A,
+4a854d66-1b94-41ab-9910-a189f784fff8,,> 12 hours,> 12 hours,,,,,Misc,N/A,
+9dae3d6e-73f5-4dfd-9b09-ca6cccf4a0b1,,Bra wearing duration,Bra wearing duration,,,,,Question,Coded,"< 12 hours;
+> 12 hours;"
+c45a7e4b-3f10-11e4-adec-0800271c1b75,,LMP,LMP,,,,,Misc,Date,
+ce841d8d-ebe8-40d7-a957-e317fdf56910,,Age at Marriage,Age at Marriage,,,,,Question,Numeric,
+d20ec5fd-2d1f-4be1-a9bc-f92b73a2525d,,Age at Menarche,Age at Menarche,,,,,Question,Numeric,
+8c6eddfc-ce71-44e3-8a5a-88d66249673d,,Age at First Sexual Contact,Age at First Sexual Contact,,,,,Question,Numeric,
+3d7fc7d4-c65c-41ef-a8f0-52183ae5f2fb,,Age at First Child,Age at First Child,,,,,Question,Numeric,
+ef853c73-b227-4d76-a58e-571a8bbb3f2c,,Parity,Parity,,,,,Question,Numeric,
+6738801b-fa1e-42d4-b325-3f92a7ce9e52,,Number of Deliveries,Number of Deliveries,,,,,Question,Numeric,
+8d8d6ce0-bd07-48bc-aac9-4785f4727511,,Number of Miscarriages,Number of Miscarriages,,,,,Question,Numeric,
+d2246eee-7701-433a-893f-7f136dad2f15,,Number of Terminated,Number of Terminated,,,,,Question,Numeric,
+cd8e8b83-d795-4d50-bb94-aacc18236179,,Previous history of STI,Previous history of STI,,,,,Question,Boolean,
+ed9eb709-25fb-48b4-8649-d4c010cfdc8b,,Any regular bleeding,Any regular bleeding?,,,,,Question,Boolean,
+5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,WEIGHT(KG),WEIGHT ( Kgs),,,,,Misc,Numeric,
+5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,HEIGHT,HEIGHT(CM),,,,,Misc,Numeric,
+f3aa7247-e9d0-4b8c-aac0-ac2cda5850b4,,Blood Pressure (Breast and Cervical Cancer),BP,,,,,Misc,Numeric,
+,,Not Done,,,,,,Misc,N/A,
+c45f6876-3f10-11e4-adec-0800271c1b75,,Normal,Normal,,,,,Misc,N/A,
+1ff55e9c-4e15-11e4-8a57-0800271c1b75,,Lump in Breast,Lump in breast,,,,,Misc,N/A,
+,,Suspect Cancer,Suspect Cancer,,,,,Misc,N/A,
+ef5d7595-87f6-4814-95e0-41533a517783,,Others,Others,,,,,Misc,N/A,
+8d97e669-d113-4ebd-b440-3b2a9195c1d6,,Clinical Breast Examination,Clinical Breast Examination,,,,,Question,Coded,"Not Done;
+Normal;
+Lump in Breast;
+Suspect Cancer;
+Others;"
+69a8344f-889a-4752-8874-f7e1b70fcbaf,,"Clinical Breast Examination, Other","Clinical Breast Examination, Other",,,,,Misc,Text,
+2f1c34ca-0c0d-4213-935b-a0fdd327f7df,,"Adviced to continue Breast self 
+examination ","Reassured and Adviced to continue Breast self 
+examination monthly, Mammography if above 40 years",,,,,Misc,N/A,
+2985a4ce-7230-4834-91d4-0712edce665a,,Referred for suspected Lump in Breast,,,,,,Misc,N/A,
+fa0bb207-bf76-435e-8fcc-d47fabe2e747,,Referred for further management,,,,,,Misc,N/A,
+e36e87e2-0af2-427e-87e6-51cbd576f19a,,Action Taken,,,,,,Question,Coded,"Adviced to continue Breast self 
+examination ;
+Referred for suspected Lump in Breast;
+Referred for further management;"
+cfbf8c09-a4b7-493c-b4dd-8701dcb6d0ce,,Completely,,,,,,Misc,N/A,
+f26fb9f6-9997-4299-92d2-b07d14ff76e2,,Partially,,,,,,Misc,N/A,
+f1e56bd1-83f8-419e-9d8c-9aaadf6f9790,,Not at All,,,,,,Misc,N/A,
+5243c8b0-d8c5-44e5-b848-099f7dd905a1,,SCJ Visible,,,,,,Question,Coded,"Completely;
+Partially;
+Not at All;"
+3764df93-2af5-43d1-a1a0-25ac95424eed,,Suspected Cancer,Suspected Cancer,,,,,Misc,N/A,
+ef5d7595-87f6-4814-95e0-41533a517783,,Others,Others,,,,,Misc,N/A,
+f8f3911c-a740-4d81-9ac2-4dda71797e9c,,Cervical Cancer screening Via Result,,,,,,Question,Coded,"Not done;
+Negative;
+Positive;
+Suspected Cancer;
+Others;"
+084ff8c7-2192-46f1-9239-6746c2a2716e,,"Cervical Cancer screening Via Result, Others Specify",Others Specify,,,,,Misc,Text,
+2c0bfbf7-725a-42ca-870b-df5b5a3ecfcc,,Cryotherapy Done?,Cryotherapy Done?,,,,,Question,Boolean,
+e550694a-4f8d-499d-b13b-b7710e865335,,Reassured and advised to retest after 3 years,Reassured and advised to retest after 3 years,,,,,Misc,N/A,
+1e36eed4-ba3f-46ba-a9ef-2d1cfa227468,,Referred for Cryotherapy treatment,Referred for Cryotherapy treatment,,,,,Misc,N/A,
+fa0bb207-bf76-435e-8fcc-d47fabe2e747,,Referred for further management,,,,,,Misc,N/A,
+6e201a25-3917-4129-8a2a-75bce7a03721,,Action Taken (Cervical Cancer Screening Using Via),Action Taken,,,,,Question,Coded,"Reassured and advised to retest after 3 years;
+Referred for Cryotherapy treatment;
+Referred for further management;"
