@@ -1,0 +1,17 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:12,Data class,Data type,Answers
+7acfafa4-f19b-485e-97a7-c9e002dbe37a,,Positive,Positive,,,,,Misc,N/A,
+3764df93-2af5-43d1-a1a0-25ac95424eed,,Suspected Cancer,Suspected Cancer,,,,,Misc,N/A,
+e707976b-9bd0-4918-9f1c-82d111e2d847,,Other result of VIA screening,Other,,,,,Misc,N/A,
+72f28ed8-c49c-4294-a588-4dbf792b6b06,,Result of VIA screening,result of VIA screening,,,,,Question,Coded,"Negative;
+Positive;
+Suspected Cancer;
+Other result of VIA screening;"
+34e5c6e5-1d93-48b5-b33b-6c3bdf1bc87d,,"Other result of VIA screening, specify","Other result of VIA screening, specify",,,,,Misc,Text,
+beef620b-5f3e-4c30-99d7-b04332439c81,,Cryotherapy and thermal ablation,,,,,,Misc,N/A,
+1e06a1f3-4f56-4f00-918d-3be2bd96edb6,,leep,,,,,,Misc,N/A,
+d4118ef4-1f36-4782-8f5b-4049677fb1b0,,Not Eligible,,,,,,Misc,N/A,
+6cb51528-9c4e-4cc7-8c07-f7180ea5ef17,,treatment eligibility,,,,,,Question,Coded,"Cryotherapy and thermal ablation;
+leep;
+Not Eligible;"
+d59089d3-29b9-4320-805c-6c683ff8f9e0,,"Not Eligible, Explain",,,,,,Misc,Text,
+5a03172f-de4c-4642-8355-3da1aa3e65b3,,client signature,,,,,,Misc,N/A,
