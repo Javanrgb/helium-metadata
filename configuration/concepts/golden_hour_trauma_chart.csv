@@ -1,0 +1,136 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:10,Data class,Data type,Answers
+8de1679d-ec68-48a4-983b-d74597836df5,,Ambulance,Ambulance,,,,,Misc,N/A,
+8c25e7a2-b33f-4e8b-82aa-9d6bbe92041d,,Pivate Vehicle,Pivate Vehicle,,,,,Misc,N/A,
+922de8bd-66cc-488b-88fc-3654d47ee6fd,,Law enforcement Agents,Law enforcement Agents,,,,,Misc,N/A,
+b39dca80-f723-4ed0-8171-d5a9caf0d8fb,,Frsc,Frsc,,,,,Misc,N/A,
+4c875c99-89e0-4d07-a3d7-1d89eb729501,,Walked In,Walked In,,,,,Misc,N/A,
+d43e9dd2-8b09-41aa-86ed-134b0dcd3387,,Police,Police,,,,,Misc,N/A,
+1c0f8c4a-2ca5-4c52-8d6e-df2d4db476fd,,Other mode of transport used,Other,,,,,Misc,N/A,
+52af70fd-a22a-40f8-8da3-d8fa8c723e4b,,Pre Hospital Transportation Info,Pre Hospital Transportation Info,,,,,Question,Coded,"Ambulance;
+Pivate Vehicle;
+Law enforcement Agents;
+Frsc;
+Walked In;
+Police;
+Other mode of transport used"
+2023f3cf-2818-4548-a23b-2cf8757c38ef,,"Other, Pre Hospital Transportation Info",Other Info,,,,,Question,Text,
+cfa7d4a2-5ae8-47e8-a316-6a15f2dbd2ab,,MVA,MVA,,,,,Misc,N/A,
+4e3ccb4d-95bc-498f-9495-85344e6edbed,,DRIVER,DRIVER,,,,,Misc,N/A,
+5add82a1-1faa-443f-bc28-ebf3e560d645,,PASSENGER,PASSENGER,,,,,Misc,N/A,
+bc867aaf-325d-4772-90d2-45dec2b91e81,,FRONT,FRONT,,,,,Misc,N/A,
+ba6aa3e7-7b3f-450e-b207-f28144e06eab,,MIDDLE,MIDDLE,,,,,Misc,N/A,
+af4fd4ca-846d-4437-8c57-daf9ff6d0a55,,BACK,BACK,,,,,Misc,N/A,
+d73b2652-2c3a-4b2a-9cf0-fae2e34c31b0,,SEAT BELT,SEAT BELT,,,,,Question,Boolean,
+4edf57d6-3f9e-42a3-8b5b-3cb603571d9d,,"VICTIM`S WITH AIRBAG INFRATED ","VICTIM`S WITH AIRBAG INFRATED ",,,,,Question,Boolean,
+3a91172b-2404-4fbc-95dd-456f01075c93,,MCA,MCA,,,,,Misc,N/A,
+9d6d6ea5-40c2-485a-addf-15358a45698c,,BICYCLE,BICYCLE,,,,,Misc,N/A,
+96e482ff-0860-4c56-b250-d48872082f61,,MOTORCYCLE,MOTORCYCLE,,,,,Misc,N/A,
+bf5dc28c-bdc0-406c-92ef-574bce208463,,TRICYCLE,TRICYCLE,,,,,Misc,N/A,
+cc093419-657b-48ec-9534-042df05103ea,,RIDER,RIDER,,,,,Misc,N/A,
+1b9b7f9c-363e-4978-89a5-b07129dcfdc4,,1ST PASSENGER,1ST PASSENGER,,,,,Misc,N/A,
+688bdbf8-78a3-45fb-a24e-60ce1ba3a6c9,,PILON,PILON,,,,,Misc,N/A,
+b25c1021-2b43-4f50-988a-cec6c28794cf,,PEDESTRIAN,PEDESTRIAN,,,,,Misc,N/A,
+cfa7d4a2-5ae8-47e8-a316-6a15f2dbd2ab,,MVA,MVA,,,,,Misc,N/A,
+3a91172b-2404-4fbc-95dd-456f01075c93,,MCA,MCA,,,,,Misc,N/A,
+202e08cc-dc87-4a96-b90e-ca72b254f0eb,,HIGHWAY,HIGHWAY,,,,,Misc,N/A,
+6316ae4e-526a-40be-892b-f4d2daf30c23,,INTRACITY,INTRACITY,,,,,Misc,N/A,
+8e2f495f-a2fd-4507-9d71-2a933c2d5ea8,,RURAL,RURAL,,,,,Misc,N/A,
+2f6aa40f-f0de-42f0-8c51-2082055df014,,FALL,FALL,,,,,Misc,N/A,
+aa71f011-1dcf-47be-b0b4-aee01b4ed7f8,,STOREY,STOREY,,,,,Misc,N/A,
+6d05307b-ca70-4d5e-bebc-2e034243ceb6,,Other types of injuries,Others,,,,,Misc,N/A,
+1610a5a3-48f3-4a0c-a74e-cd9a5d6ab570,,GSW,GSW,,,,,Misc,N/A,
+db536fca-2857-4859-81ef-2664dfa43800,,STAB,STAB,,,,,Misc,N/A,
+22b98b69-c35c-499f-8406-fbc1a390a057,,ASSULT,ASSULT,,,,,Misc,N/A,
+6e7b84a0-fe36-4ad3-b011-fbfd4a3c5549,,BURNS,BURNS,,,,,Misc,N/A,
+bf0516f3-6c60-476c-86ef-1ece7319438b,,"Others, mechanisim of injuries",Others,,,,,Misc,N/A,
+4f6f55c6-df3a-4c00-a2c7-4022afe5d3b3,,Mechanisim of injury,,,,,,Question,Coded,"MVA;
+DRIVER;
+PASSENGER;
+FRONT;
+MIDDLE;
+BACK;
+MCA;
+BICYCLE;
+MOTORCYCLE;
+TRICYCLE;
+RIDER;
+1ST PASSENGER;
+PILON;
+PEDESTRIAN;
+MVA;
+MCA;
+HIGHWAY;
+INTRACITY;
+RURAL;
+FALL;
+STOREY;
+Other types of injuries;
+GSW;
+STAB;
+ASSULT;
+BURNS;
+Others, mechanisim of injuries;"
+3dba1206-364e-4a12-a1b4-dcfb8c6867ff,,STOREY Floor 1,1,,,,,Misc,N/A,
+333e5e83-d281-4b18-bcc6-27c993f41652,,STOREY  Floor 2,2,,,,,Misc,N/A,
+0843bbb3-f613-4f00-adca-21f12e860a43,,STOREY  Floor 3,>2,,,,,Misc,N/A,
+aa71f011-1dcf-47be-b0b4-aee01b4ed7f8,,STOREY,STOREY,,,,,Question,Coded,"STOREY Floor 1;
+STOREY  Floor 2;
+STOREY  Floor 3;"
+0abc7bc4-ce01-4945-b142-8bd74ea9eff2,,"PR, Procedure Checklist",PR,,,,,Misc,N/A,
+260ea134-9fb7-4be9-915e-cc61621a673a,,"BP, Procedure Checklist",BP,,,,,Misc,N/A,
+02b10424-2f38-4f2a-a25e-44e9838c1e5b,,"SPO2, Procedure Checklist",SPO2,,,,,Misc,N/A,
+19fcb424-d144-478a-b6ea-eb3465f89bc9,,Airway,Airway,,,,,Misc,N/A,
+106579c9-faa5-48c9-b7e2-a2e210e00eb4,,IVLine,IVLine,,,,,Misc,N/A,
+dcb2ac7e-65bf-4158-98bb-b97f59ee0720,,Procedure Checklist,Procedures,,,,,Question,Coded,"PR, Procedure Checklist;
+BP, Procedure Checklist;
+SPO2, Procedure Checklist;
+Airway;
+IVLine"
+bc5d352a-fb35-4ba6-b6f6-fc4dffbe1624,,"500ml ",,,,,,Misc,N/A,
+f2139f3f-15b6-4d1e-b1a7-a3abfe54ad5c,,"500-1000ml ",,,,,,Misc,N/A,
+cafd602b-bafe-44de-9995-ee847b35c5ef,,> 1000ml,,,,,,Misc,N/A,
+ee113165-ca63-475d-bc2b-99b599abe8bd,,"Crystalloid ","Crystalloid ",,,,,Question,Coded,"500ml ;
+500-1000ml ;
+> 1000ml;"
+498174e6-f2b1-459c-9a78-08a2b5f046ad,,"Blood Assessment ? ","Blood Assessment ? ",,,,,Question,Boolean,
+e1b1cb76-757c-40fd-941f-614954ed9b75,,Blood Assessment Pints,Pints,,,,,Question,Numeric,
+9d65f54b-3f10-11e4-adec-0800271c1b75,,ml,ml,,,,,Misc,N/A,
+b42f6a7e-2c91-461a-9db6-d3349f0f8602,,Blood Assessment Units,Units,,,,,Question,Coded,ml
+82756c30-a3a3-4d3f-84ae-970995a612b5,,C SPINE Protection,C SPINE Protection,,,,,Question,Boolean,
+788c1fdb-10b0-4453-adad-cb7f8ffeb19b,,FULL SPINE Protection,FULL SPINE Protection,,,,,Question,Boolean,
+6c3d15ca-ce8e-4bbd-9e60-346fec27f792,,Splints,Splints,,,,,Misc,Text,
+13ce12d2-4f6a-4aa4-92bd-f5b78563e32d,,Medications,Medications,,,,,Misc,Text,
+073d8427-8e01-4f28-bb0c-1b268f7f4c1d,,"Others, Assessment and Procedure ",Others,,,,,Misc,N/A,
+b5120f70-a65d-4cce-8ca4-fa30de11c7da,,Assessment and Procedure,,,,,,Question,Coded,"PR, Procedure Checklist;
+BP, Procedure Checklist;
+SPO2, Procedure Checklist;
+Airway;
+IVLine;
+Procedure Checklist;
+500ml ;
+500-1000ml ;
+> 1000ml;
+Crystalloid ;
+Blood Assessment Pints;
+ml;
+Blood Assessment Units;
+Others, Assessment and Procedure"
+c3959ab5-3f10-11e4-adec-0800271c1b75,,Chief Complaint,Chief Complaint,,,,,Question,Coded,
+9933ea9e-125f-4bf5-a00a-1feb94ad5f6c,,HOME,HOME,,,,,Misc,N/A,
+e4806b13-739a-4aa3-b7a0-25ba1d51d73b,,ROAD,ROAD,,,,,Misc,N/A,
+d8dbb65e-adb6-4dc1-8697-c3d4d6b20ed6,,WORKPLACE,WORKPLACE,,,,,Misc,N/A,
+34be6b67-80d2-4e13-96cd-f419d9c0bab5,,Place of Injury,,,,,,Question,Coded,"HOME;
+ROAD;
+WORKPLACE"
+bf242942-ba83-45b3-987f-305e76045a30,,IKORODU,IKORODU,,,,,Misc,N/A,
+8ba98b54-5601-45e8-a6b8-1021e83d85e5,,BADAGRY,BADAGRY,,,,,Misc,N/A,
+a3840a5e-b5b3-4bba-b88e-28b3746aa9d6,,IKEJA,IKEJA,,,,,Misc,N/A,
+924a7d6f-04db-4ff7-a46d-69a807339587,,LAGOS,LAGOS,,,,,Misc,N/A,
+c4963d06-d386-496d-beea-42ac2a77b45d,,EPE,EPE,,,,,Misc,N/A,
+0c7674d8-5145-4052-b141-4c79858f619f,,OUTSIDE LAGOS,OUTSIDE LAGOS,,,,,Misc,N/A,
+59784410-be18-49b6-90df-b8abdd88e374,,Location of Injury,,,,,,Question,Coded,"IKORODU;
+BADAGRY;
+IKEJA;
+LAGOS;
+EPE;
+OUTSIDE LAGOS"
