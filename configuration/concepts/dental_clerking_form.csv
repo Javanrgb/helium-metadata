@@ -1,0 +1,28 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:14,Data class,Data type,Answers
+eec42646-67e8-4eb0-94f5-89a0d17b798e,,complain,,,,,,Question,Text,
+162719d1-d78a-4522-a9c0-5757d61fd526,,History of present complain,,,,,,Question,Text,
+39cbd705-abcd-4879-a567-7144bc79cb72,,Past Dental History,,,,,,Question,Text,
+114a9639-dee6-447c-84c3-24e29e9b6a34,,Past Medication/Medication History,,,,,,Question,Text,
+42e99d75-9b28-44c0-881e-6b5a59b985f3,,Family and Social History,,,,,,Question,Text,
+13feb55b-599f-4813-9d43-50ccb667a164,,Extra Oral Examination,,,,,,Question,Text,
+89b214e0-9bec-4ee2-bff7-dd20da50b743,,Teeth Present,,,,,,Misc,N/A,
+9ac91c2f-3445-46ce-af83-3dcaa3a614b5,,Periodontal condition,,,,,,Misc,N/A,
+"55408a0c-8ce7-496d-9fde-a8c6471313be
+",,Filled teeth,,,,,,Misc,numeric,
+1353eccc-acab-4c86-a878-69478c6afa37,,Oral Hygiene,,,,,,Misc,N/A,
+99db5733-6b9f-44bf-8545-863d3224b24d,,Carious cavity,,,,,,Misc,numeric,
+a779cd83-69d4-4a08-a33c-4691cbf90a99,,Intra Oral Examination,,,,,,Question,Coded,"Teeth Present;
+Periodontal condition;
+Oral Hygiene;
+Carious cavity;"
+fc52770f-a821-4334-a732-3b27f7f422a1,,Investigations,,,,,,Misc,N/A,
+c5c1aefd-a21e-4d6c-890b-f620b4f4127b,,X-Ray findings,,,,,,Misc,N/A,
+11f7d743-e88d-46b5-a047-5ddbe76f3c96,,Missing Teeth,,,,,,MIsc,N/A,
+bf2520fa-36d6-444a-bbbc-53d941562044,,Fractured,,,,,,Misc,N/A,
+17da9371-0ad8-4784-aa40-eb75af5f4f95,,Calculus,,,,,,Question,Coded,"Investigations;
+X-Ray findings;
+Missing Teeth;
+Fractured;"
+9315dffd-50f6-446d-9446-c8723fb354f1,,Provisional Diagnosis,,,,,,Misc,Text,
+"fc2a0cbb-ade1-4644-ac86-0382cf069fa2
+",,Treatment Plan,,,,,,Misc,Text,
