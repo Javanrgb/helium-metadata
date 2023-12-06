@@ -1,0 +1,46 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:18,Data class,Data type,Answers
+58032918-046f-473e-9ed8-9167657d92f9,,Clinic Personnel,,,,,,Misc,N/A,
+b6f09f07-366b-4eb0-87e1-bd01c73aae79,,Outreach perssonel,,,,,,Misc,N/A,
+db479c75-086e-46d7-ba5c-07ff0548e512,,Radio,,,,,,Misc,N/A,
+c580a5a5-3786-454e-8206-2d5c042744d8,,TV,,,,,,Misc,N/A,
+aebc9369-6c08-4970-99ca-a27ab3f986a7,,Print Media,,,,,,Misc,N/A,
+4f7ae2fe-cd61-4337-b13c-16082087d756,,Friend/Relative,,,,,,Misc,N/A,
+c2a84a2d-edea-43a4-8256-3d11485d3355,,Other Clinic,,,,,,Misc,N/A,
+8cd8dc9c-a8bf-4860-b6f6-133ebc023732,,Community Health Worker,,,,,,Misc,N/A,
+6ff25957-f92e-4f6b-ae66-7a2d60a1e35e,,Other,,,,,,Misc,N/A,
+96b611b5-4e0a-4031-89e3-87e4681eb043,,"Source of Refferal, Family Planning",How did you learn of this family planning service?(Source of Refferal),,,,,Question,Coded,"Clinic Personnel;
+Outreach perssonel;
+Radio;
+TV;
+Print Media;
+Friend/Relative;
+Other Clinic;
+Community Health Worker;
+Other;"
+0c5d61ef-90da-4196-98aa-a269282364bf,,No. of children born alive,,,,,,Question,Numeric,
+2e17dffb-ff56-4ad1-a1f9-1f1e2704eceb,,No. of children still living,,,,,,Question,Numeric,
+a4ea1396-a917-4afc-8848-69c1db1de22a,,No. of miscarriages/ stillbirths/ abortions,,,,,,Question,Numeric,
+d749f296-2f7e-4546-af19-4d66917a7f02,,Month. Year last pregnancy ended,,,,,,Question,Date,
+6ee8bd55-3ec2-4c8d-9857-8b1f262767bd,,Complicated,,,,,,Misc,N/A,
+61492724-292a-4d33-a044-6ba24fe08731,,Results of last pregnancy,,,,,,Question,Coded,"Normal;
+Complicated;"
+321db85f-8835-4890-9f96-43580f97bb62,,Specify complications,,,,,,Misc,Text,
+2eb7575b-da0c-4f4e-b680-59e0c0e55fa3,,Menstrual cycle,,,,,,Misc,Text,
+2ba42894-4622-47d7-8cdf-4858dae1dca4,,Duration,,,,,,Misc,N/A,
+a555a9fa-08ff-4d3b-a9c8-d71aab3eaad4,,Date of last Menstrual Period,,,,,,Question,coded,"Regular;        
+Irregular menstrual cycle     "
+bbb39475-d78d-4474-908c-0d650d9025f1,,Are you currently breastfeeding ?,,,,,,Question,Boolean,
+4d208839-0db1-4449-bb43-c7336a6bab7c,,"No, wants no more children",,,,,,Misc,N/A,
+c77c1210-fd29-4dc3-8d61-f448a94e19d9,,"Yes, but ants child later(spacing)",,,,,,Misc,N/A,
+32cc8550-f014-4def-887b-e1a09a3188a0,,Not certain or counselling only,,,,,,Misc,N/A,
+aaed001d-554b-4628-9ecc-d207dd56c753,,"Yes, wants child now",,,,,,Misc,N/A,
+46e16dc4-1dfd-4959-b19d-b32c6e44d5be,,Do you want to have more children,,,,,,Question,coded,"No, wants no more children;
+Yes, but ants child later(spacing);
+Not certain or counselling only;
+Yes, wants child now;"
+a2e9bd12-1cce-40d4-9532-a0c7924f9ba7,,Contraception used prior to this visit,,,,,,Question,Boolean,
+22082ff6-89c0-4f6f-9e1f-455868138324,,Method,,,,,,Question,Text,
+3aa6646d-00aa-4dcb-8296-aa438c8e9842,,Public,,,,,,Misc,N/A,
+28895357-5826-4ecf-95e9-135ab9d211c5,,Source,,,,,,Question,coded,"Public;
+Private; 
+Other Answer"
