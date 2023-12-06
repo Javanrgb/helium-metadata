@@ -1,0 +1,43 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:19,Data class,Data type,Answers
+1089a3e2-5512-42e6-b63f-7dd809668575,,"Diabetic ? ",,,,,,Question,Boolean,
+54425a63-939c-4390-b57c-cba37be08bd9,,Jaundiced ?,,,,,,Question,Boolean,
+d2a53ca7-24bc-463a-a6f4-9f756d025317,,Frequent urinary tract infection or dysuntria?,,,,,,Question,Boolean,
+9aed8752-ff6f-4293-ba0d-d91c50f0b37d,,Frequent or sever headaches?,,,,,,Question,Boolean,
+a3c475c0-3758-4a2a-ade3-4c33e9e3079a,,Sickle cell Anaemia?,,,,,,Question,Boolean,
+1eca2ff4-fe65-4b7a-a891-d6cb2d886386,,Other serious illness of condition?,,,,,,Question,Boolean,
+306b0cf0-7e4e-437f-bef7-09430d4a4c6f,,Smoker?,,,,,,Question,Boolean,
+a5ab3cae-1532-4915-b055-d9f039f618ec,,Blood Pressure Reading,,,,,,Question,Numeric,
+63393c2f-487e-4ab6-9043-45eb2e8d3f63,,Breasts,,,,,,Question,Coded,"Normal;
+Lumps;"
+87466a22-da7b-497d-9b65-871535a57ef8,,Liver enlarge?,,,,,,Question,Boolean,
+cf8f77a0-65e3-4cc8-b4c3-4ac0b2bbc3e9,,Vaginal Discharge?,,,,,,Question,Boolean,
+df78c4de-8bc2-4b12-9729-4b71db9839fa,,Vaginal discharge colour,,,,,,Question,Text,
+ffcfdcfe-3037-4b5f-931f-bc027ec0a5b4,,Vaginal discharge odour,,,,,,Question,Text,
+85384032-e87b-403b-98f8-46c4e347149e,,"Cervix, Erosion ?",,,,,,Question,Boolean,
+b3cba086-1fe2-4b0a-b3d2-c4b69ffdb346,,"Cervix, Discharge ?",,,,,,Question,Boolean,
+89687504-b3d7-4ff7-ba95-32737a7dd4ac,,"Cervix, Tears ?",,,,,,Question,Boolean,
+7a5857f4-7d01-41ea-afa4-0a45b47acafb,,Anteverted,,,,,,Misc,N/A,
+295d10a9-d87b-49a3-9083-650a172fed27,,Retroverted,,,,,,Misc,N/A,
+39b01123-da55-4ccc-bbef-7cc00575e175,,Uterus position,,,,,,Question,Coded,"Anteverted;
+Retroverted;"
+de61c4a7-a5e7-416a-aeac-99d8301d9434,,Enlarged,,,,,,Misc,N/A,
+72580c1c-0e13-4d0e-9634-7305ec2362c3,,Other: Uterus size,,,,,,Question,Coded,"Normal;
+Enlarged;"
+e22c45b5-6540-4dd8-80fb-9cedac79afa1,,Laboratory results(as appropriate),,,,,,Question,Text,
+367efbd1-6e46-4db9-b959-eb278bf38ebe,,Other Observations,,,,,,Question,Text,
+b1d5e52d-0534-4a24-872f-410f2c4495b8,,Contraceptive selected this visit,,,,,,Question,Text,
+b8540914-e488-4f88-ae60-7e3bb7216bfd,,Brand/Size/Model,,,,,,Question,Text,
+42682804-9a7e-497f-b907-45ce1b211f96,,Qunatity,,,,,,Question,numeric,
+257c61f1-642d-47fe-b82c-770ace7f3a7a,,Date of next appointment,,,,,,Question,date,
+213b13e3-d23a-4fae-9079-76e7937cf344,,Name of Examiner/Supervisor,,,,,,Question,Text,
+1d4c6c1f-08ee-4a43-b667-38a78eaeb34f,,Date P. Ended,,,,,,Question,date,
+c20a5b5c-8743-4213-97b1-3bc8a4871eeb,,Live Birth,,,,,,Misc,N/A,
+6a6f5c61-facb-46b0-aecc-b61c9133135b,,Miscarriage,,,,,,Misc,N/A,
+0dd55857-d0d6-45a8-8895-784cd5b5de58,,Still Birth,,,,,,Misc,N/A,
+e28beefc-859a-4e10-8e70-01896d431cc2,,Live birth died later,,,,,,Misc,N/A,
+77248a1a-02f4-4f33-af20-4c37b1e02a0b,,Complications,,,,,,Misc,N/A,
+377f5bae-3fe4-4306-bc5f-f657f574c7a5,,Pregnancy Outcome,,,,,,Question,Coded,"Live Birth;
+Miscarriage;
+Still Birth;
+Live birth died later;
+Complications;"
