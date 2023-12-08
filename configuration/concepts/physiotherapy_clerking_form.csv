@@ -1,0 +1,10 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:22,Data class,Data type,Answers
+9067d2c6-28c4-4ec6-a81e-9bec14d6bf59,,Present Complain,Presenting Complain/PC,,,,,Misc,Text,
+c3998f6b-3f10-11e4-adec-0800271c1b75,,History Notes,History Notes,,,,,Misc,Text,
+31846e97-21ab-4dde-bfe6-51f383dcf945,,Past Medication/Medical History,Past Medication/Medical History,,,,,Misc,Text,
+5ad0706c-7c94-4b71-a7bb-533383e924ce,,Surgical History,Surgical History,,,,,Misc,Text,
+e9249427-c8d0-4301-8ca8-fa1cae69d18c,,Drug History,Drug History,,,,,Misc,Text,
+9696992b-4a52-4e38-b5df-30966423d535,,Family & Social History,Family & Social History,,,,,Misc,Text,
+add60270-0b92-43a2-bf35-a38e421df0ee,,X-ray Report and Other Medical Investigation Report,X-ray and other Investigation Report,,,,,Misc,Text,
+d951590f-421b-4393-a1e9-b22d36236f6f,,On Observation / O.E,On Observation / O.E,,,,,Misc,Text,
+132668ea-6842-4d79-a901-22ce8fe84a74,,Assessment/Segmental Assessment,Assessment/Segmental Assessment,,,,,Misc,Text,
