@@ -103,11 +103,10 @@ tasks, or activities:",,,,,,Question,Text,
 35511551-fc02-4025-9c47-643d3a821d26,,Review of available records Medical,Medical,,,,,Misc,N/A,
 c31893f8-9cd9-4378-a4aa-d626ec661f23,,Review of available records Education,Education,,,,,Misc,N/A,
 909ae75e-d30f-42b3-a7c9-93d9996acc58,,Review of available records Surgical,Surgical,,,,,Misc,N/A,
-1c7c7b7f-70bc-4ebd-aca9-55c73d1d86f5,,Other Review of available records,,,,,,Misc,N/A,
-4babd0ce-8c1e-4936-9de4-76a88ddc5c12,,Review of available records,,,,,,Question,Coded,"Medical;
-Education;
-Surgical;
-Other Review of available records"
+1c7c7b7f-70bc-4ebd-aca9-55c73d1d86f5,,Other Review of available records,Other,,,,,Misc,N/A,
+4babd0ce-8c1e-4936-9de4-76a88ddc5c12,,Review of available records,,,,,,Question,Coded,"Review of available records Medical;
+Review of available records Education;
+Review of available records Surgical;Other Review of available records"
 0b74e31b-4eaa-49a8-95e0-e26ba0cc481d,,"Other Review of available records, specify",,,,,,Question,Text,
 d2e964c9-c546-4444-8fca-5179a22c8b31,,Nutrition,Nutrition,,,,,Misc,N/A,
 d1ff67bc-8069-419c-ade6-80df1d3bedb7,,Hydration,Hydration,,,,,Misc,N/A,
