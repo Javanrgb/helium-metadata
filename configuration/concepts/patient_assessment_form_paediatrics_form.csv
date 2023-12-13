@@ -1,0 +1,236 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:24,Data class,Data type,Answers
+0d1d8ab7-70fa-4040-b680-478c94700a46,,Cultural/religious beliefs,Cultural/religious beliefs,,,,,Question,Text,
+a51e5371-08f2-480c-848d-549fd52248f7,,Family and caregiver Profession,Family and caregiver Profession,,,,,Question,Text,
+49938232-4cab-45fd-b83a-c5c3f31b6e1b,,Time of grasping objects placed in his hand,Time of grasping objects placed in his hand,,,,,Misc,Numeric,
+8c908e74-300e-4cbd-b159-ce1618a2908d,,Time of turning/rolling in bed,Time of turning/rolling in bed,,,,,Misc,Numeric,
+87ada04c-608a-4a4b-8aea-6374be1b025e,,Time of holding up the neck,Time of holding up the neck,,,,,Misc,Numeric,
+d8316d67-3357-46c2-87da-397c16cba7f6,,Time of sitting upright,Time of sitting upright,,,,,Misc,Numeric,
+4bfbd0a5-bc9d-46f4-94a7-44c462ed41ec,,Time of crawling,Time of crawling,,,,,Misc,Numeric,
+ddc1c521-b232-49bb-aee3-505d16947fd6,,Time of standing,Time of standing,,,,,Misc,Numeric,
+9c11bfb3-73fe-4fbc-bad5-62b225938e48,,Time of walking,Time of walking,,,,,Misc,Numeric,
+77aa18e7-6ecc-435d-8d02-21deb5b12ee1,,Hand dominance,Hand dominance,,,,,Question,Text,
+4ba73b14-9161-42f9-bf88-3291589acb2e,,Assistive,Assistive,,,,,Misc,N/A,
+7aea2447-a381-414a-8c62-393e109147bb,,Adaptive,Adaptive,,,,,Misc,N/A,
+628e2a9d-c39e-4bbe-898d-f34d267de6a7,,Orthotic,Orthotic,,,,,Misc,N/A,
+65c66c15-96aa-4774-8a98-5fb8487527a4,,Protective,Protective,,,,,Misc,N/A,
+456c0edd-2f9b-4db6-9272-24953c5e0b46,,Supportive,Supportive,,,,,Misc,N/A,
+862a7f73-856f-4d06-bf42-685d96da9a6a,,Prosthetic,Prosthetic,,,,,Misc,N/A,
+2b65a271-740b-402d-89d8-dbe52d1e1247,,Other Devices and equipment,,,,,,Misc,N/A,
+c048e781-7064-4d9c-a89d-4423c5986b77,,Devices and equipment,,,,,,Question,Coded,"assistive;
+adaptive;
+orthotic;
+protective;
+supportive;
+prosthetic;
+Other Devices and equipment"
+0f30218c-5dcd-4bfd-ada9-1f79b3b751e3,,"Other Devices and equipment, specify",,,,,,Question,Text,
+54c29f5d-84dd-43e6-8cd6-de342607b4aa,,Living environment and community characteristics,,,,,,Question,Text,
+6cd7c492-7aa2-4aae-8bff-82c56336aecb,,General health perception,,,,,,Misc,Text,
+9c7c87f7-9d83-4300-96e8-579fb8ffde34,,Mobility,Mobility,Mobility,,,,LabTest,Text,
+ce774cf4-13f3-41f6-9767-59a35e8da116,,Sleep patterns,Sleep patterns,,,,,Misc,N/A,
+be467663-219e-47b1-b100-802e4669effd,,Restricted bed days,Restricted bed days,,,,,Misc,N/A,
+62a11824-a5e9-465e-ad35-b2251051f317,,Other physical function,,,,,,Misc,N/A,
+f20091ed-03ea-41f7-bd1f-209c63e97476,,Physical function,,,,,,Question,Coded,"Mobility;
+sleep patterns;
+restricted bed days;
+Other physical function"
+49c7d2a5-40e8-4e4a-931b-0913a074b1bc,,"Other physical function, specify",,,,,,Question,Text,
+b8b56760-7e55-42de-95de-12b30986aec8,,Memory,Memory,,,,,Misc,N/A,
+6be312de-338b-4ed5-9929-e98bae14af16,,Reasoning ability,Reasoning ability,,,,,Misc,N/A,
+506d37ec-84b7-418c-925e-2a0ff9d72300,,Depression,Depression,,,,,Misc,N/A,
+ad926523-01c7-46f6-b4c6-bb63ad2c379e,,Anxiety,Anxiety,,,,,Misc,N/A,
+e464ec7e-b630-44bb-a2d4-3b71590d1adb,,Other Psychological function,,,,,,Misc,N/A,
+81e44a3b-1ec1-4e4c-9907-9f5958795335,,Psychological function,,,,,,Question,Coded,"memory;
+reasoning ability;
+depression;
+anxiety;
+Other Psychological function"
+65de00fd-ab0d-42ca-94ee-b743b1633aaa,,"Other Psychological function, specify",,,,,,Question,Text,
+d429e66f-e080-45a0-9dba-66a7b57b22df,,Community,Community,,,,,Misc,N/A,
+c6dd6ccf-879a-4d1f-84ad-37e1ba5246d1,,Leisure,Leisure,,,,,Misc,N/A,
+c348dc7d-de5f-4e60-8282-c05a637fce6c,,Social,Social,,,,,Misc,N/A,
+e8b56a69-5b0d-4a6e-bf47-47f5795b5815,,Work,Work,,,,,Misc,N/A,
+926e43e9-e89e-412d-af5e-ea25fb41dc60,,Other Role function,,,,,,Misc,N/A,
+a2219b08-c830-4b7e-a0e0-cf1e85e13d25,,Role function,,,,,,Question,Coded,"community;
+leisure;
+social;
+work;
+Other Role function"
+5fa8a893-027b-4241-a37f-0b5767c68024,,"Other Role function, specify",,,,,,Question,Text,
+196ab9bb-edc6-4cfc-b053-f66acd463e06,,Social activity,Social activity,,,,,Misc,N/A,
+c5b71d6f-c3f7-4802-a177-5f3dc8ded8bf,,Social interaction,Social interaction,,,,,Misc,N/A,
+01cc27d1-186e-49c9-baa1-50b54d41fb47,,Social support,Social support,,,,,Misc,N/A,
+e57eff50-3eb0-45ce-a92c-5c80fb1e128b,,Other Social function,,,,,,Misc,N/A,
+7f42329f-899b-4adc-a6f7-4ba7464b2a66,,Social function,,,,,,Question,Coded,"social activity;
+social interaction;
+social support;
+Other Social function"
+4415009e-2c9d-4ca0-92ac-bc25170788e1,,"Other Social function, specify",,,,,,Question,Text,
+652849fe-076d-4666-b308-cdad379a9d01,,Smoking,Smoking,,,,,Misc,N/A,
+af18f13b-a35c-41e2-bb48-f77a110ac27c,,Drug abuse,Drug abuse,,,,,Misc,N/A,
+4f5a20e4-b20d-4e58-a074-88ef51398a2b,,Other Behavioural health risks of parent,,,,,,Misc,N/A,
+312b1a89-513e-4a9f-a040-c64027b118b1,,Behavioural health risks of parent,,,,,,Question,Coded,"smoking;
+drug abuse;
+Other Behavioural health risks of parent"
+645a7929-c5d4-45d5-b3dc-a1437c7e8653,,"Other Behavioural health risks of parent, specify",,,,,,Question,Text,
+4bc0b6eb-4340-40f8-9217-9623d01c7a1c,,Level of physical fitness,,,,,,Misc,Text,
+8a99d685-1a4e-41de-b2ac-ba7c26afa887,,Familial health risks,,,,,,Misc,Text,
+5c085191-afba-439e-8dc4-ba0af5f74318,,Family hereditary condition,,,,,,Misc,Text,
+c1ac6a0d-365c-4c48-92bf-2a1514957ad6,,Cardiovascular,Cardiovascular,,,,,Misc,Text,
+240279cf-c2d0-476e-97a3-9f6ffdf6acc2,,Gastrointestinal,Gastrointestinal,,,,,Misc,Text,
+0cd02fc8-d245-4a40-8a68-833faf2d2ddc,,Genitourinary,Genitourinary,,,,,Misc,Text,
+47ed35a6-4945-49a6-8380-b1514809e019,,Integumentary,Integumentary,,,,,Misc,Text,
+da3a5a4d-81dd-4624-a397-29fafbd454f0,,Musculoskeletal,Musculoskeletal,,,,,Misc,Text,
+67f42677-bb38-47a3-88c5-a3f967d3adaa,,Neuromuscular,Neuromuscular,,,,,Misc,Text,
+2975a776-a4cb-4323-aa0f-43ee0a67ebc2,,Pulmonary,Pulmonary,,,,,Misc,Text,
+c06f6b9f-c39d-4b1b-9e00-7724bc345c46,,Concerns that led patient/client to seek the services of a physical therapist,,,,,,Question,Text,
+98a71032-ea15-4e30-9332-a686217266aa,,Concerns or needs of patient/client who requires the services of a physical therapist,,,,,,Question,Text,
+bd653365-7f0e-468b-98eb-b910a9f51118,,Current therapeutic interventions,,,,,,Question,Text,
+1557216f-779f-4915-995e-8859956bcc00,,"Mechanisms of injury or disease, including date of onset and course of events",,,,,,Question,Text,
+e0a2aa25-d1d7-4022-ad60-0d088b433f00,,Onset and pattern of symptoms,,,,,,Question,Text,
+8692e236-bc9d-4965-9f00-6bb0851e6c58,,"Patient/client, family, significant other, and caregiver expectations and goals 
+for the therapeutic intervention",,,,,,Question,Text,
+aed9d050-94ab-495c-858d-4e515bbc3dc7,,Previous occurrence of chief complaint(s),,,,,,Question,Text,
+0c39e2d7-9711-4135-bc87-32f0ae725df6,,Prior therapeutic interventions,,,,,,Question,Text,
+fd77b578-669b-4004-934d-4ba2267a546f,,"Current and prior functional status in self-care and home management activities, 
+including activities of daily living (ADL) and instrumental activities of daily living (IADL)",,,,,,Question,Text,
+a65ec162-fb06-49c7-a6e3-5fed8c828481,,"Current and prior functional status in school, play, community, and leisure actions, 
+tasks, or activities:",,,,,,Question,Text,
+877c4f41-640d-49b7-b8b8-fc4ded55bb7b,,Medications for current condition,,,,,,Question,Text,
+4224b970-4fbf-4787-a808-cbba3edcc3f9,,Medications previously taken for current condition,,,,,,Question,Text,
+95f8bfb3-b221-4ea3-adf8-3c2dc2d97d3a,,Medications for other conditions,,,,,,Question,Text,
+841ce128-1122-48e4-80aa-9b80c7999178,,Laboratory and diagnostic tests,,,,,,Misc,Text,
+35511551-fc02-4025-9c47-643d3a821d26,,Review of available records Medical,Medical,,,,,Misc,N/A,
+c31893f8-9cd9-4378-a4aa-d626ec661f23,,Review of available records Education,Education,,,,,Misc,N/A,
+909ae75e-d30f-42b3-a7c9-93d9996acc58,,Review of available records Surgical,Surgical,,,,,Misc,N/A,
+1c7c7b7f-70bc-4ebd-aca9-55c73d1d86f5,,Other Review of available records,,,,,,Misc,N/A,
+4babd0ce-8c1e-4936-9de4-76a88ddc5c12,,Review of available records,,,,,,Question,Coded,"Medical;
+Education;
+Surgical;
+Other Review of available records"
+0b74e31b-4eaa-49a8-95e0-e26ba0cc481d,,"Other Review of available records, specify",,,,,,Question,Text,
+d2e964c9-c546-4444-8fca-5179a22c8b31,,Nutrition,Nutrition,,,,,Misc,N/A,
+d1ff67bc-8069-419c-ade6-80df1d3bedb7,,Hydration,Hydration,,,,,Misc,N/A,
+dc72fb53-b643-44dc-9ec1-206ed049f89e,,"Other Review of other clinical findings ",,,,,,Misc,N/A,
+425455ce-38da-4fe5-b94a-56178bfd29c9,,Review of other clinical findings,,,,,,Question,Coded,"nutrition;
+hydration;
+Other Review of other clinical findings "
+9e8ebc35-ac43-4855-9d80-78a20658c24e,,"Other Review of other clinical findings, specify",,,,,,Question,Text,
+a5ab3cae-1532-4915-b055-d9f039f618ec,,Blood Pressure Reading,Blood Pressure,,,,,Question,Numeric,
+b95a44ea-8827-4bb4-9bf9-101c2dc728dd,,Oedema,Oedema,,,,,Misc,Numeric,
+c248c2f3-e927-429e-b2c0-adc104b956a9,,Heart rate,Heart rate,,,,,Misc,Numeric,
+6a2c1bf8-27d4-42b9-a1aa-aa9860db8609,,Respiratory rate,Respiratory rate,,,,,Misc,Numeric,
+a7f7a9fb-00d2-4cb4-81f0-dec04cd5933e,,Pliability (texture),Pliability (texture),,,,,Question,Text,
+2b9253c0-f845-458f-9f9a-2b01b0c3cd4f,,Presence of scar formation,Presence of scar formation,,,,,Question,Text,
+14bdbaad-9c54-45bb-bf01-a78b7a02c93b,,Skin colour,Skin colour,,,,,Question,Text,
+0ae5ab8f-8aa6-4096-a5d6-dcf232baa782,,Skin integrity,Skin integrity,,,,,Question,Text,
+dd3dc015-e01b-4440-91ef-638f5cfb984f,,Gross symmetry,Gross symmetry,,,,,Misc,Numeric,
+5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Height,HEIGHT(CM),,,,,Misc,Numeric,
+5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,Weight,WEIGHT ( Kgs),,,,,Misc,Numeric,
+85fd6842-8e89-4803-982a-3ed4c1c96661,,"ROM for specific joints (Upper Extremity), right","ROM for specific joints (Upper Extremity), right",,,,,Misc,Numeric,
+b86bad83-f7e3-439e-abd0-0e6291d1ac4c,,"ROM for specific joints (Upper Extremity), left","ROM for specific joints (Upper Extremity), left",,,,,Misc,Numeric,
+ac4d1df3-9703-4c2a-b8da-4dcccec981b8,,"ROM for specific joints (Lower Extremity), right","ROM for specific joints (Lower Extremity), right",,,,,Misc,Numeric,
+cb628a9b-4f1b-4ba0-9ed7-77f3fe419c5c,,"ROM for specific joints (Lower Extremity), left","ROM for specific joints (Lower Extremity), left",,,,,Misc,Numeric,
+3aea660e-fc8e-4c7f-b0e9-aaf5aff168e1,,"Gross strength: Upper Extremity, left","Gross strength: Upper Extremity, left",,,,,Misc,Numeric,
+6fde4808-68cc-4055-8b84-4963a1e66153,,"Gross strength: Upper Extremity, right","Gross strength: Upper Extremity, right",,,,,Misc,Numeric,
+77e15f0f-45b1-48cb-b701-0418e6fb05b9,,"Gross strength: Lower Extremity, left","Gross strength: Lower Extremity, left",,,,,Misc,Numeric,
+75e4333f-9072-41c5-ba80-64314550c9b6,,"Gross strength: Lower Extremity, right","Gross strength: Lower Extremity, right",,,,,Misc,Numeric,
+f9251493-fbb3-41e8-a829-c7274483f1db,,"Shoulder flexors, left","Shoulder flexors, left",,,,,Misc,Numeric,
+45622303-3834-43c2-bfd9-2d9c8124dfb6,,"Shoulder flexors, right","Shoulder flexors, right",,,,,Misc,Numeric,
+37eb70be-6d47-4c08-ab9e-14efd8d151ea,,"Shoulder extensors, left","Shoulder extensors, left",,,,,Misc,Numeric,
+b2634d74-0012-425c-9751-d6b3dbab5e32,,"Shoulder extensors, right","Shoulder extensors, right",,,,,Misc,Numeric,
+e192e2cc-4632-4f27-b192-4daaeec1b8fe,,"Shoulder abductors, left","Shoulder abductors, left",,,,,Misc,Numeric,
+cc8cf9a1-99c4-4f05-b39d-e59ce450f020,,"Shoulder abductors, right","Shoulder abductors, right",,,,,Misc,Numeric,
+5eef1494-1076-445d-9516-e20249014765,,"Shoulder adductors, left","Shoulder adductors, left",,,,,Misc,Numeric,
+91b0f42e-bf26-4123-919d-efd9ddd61908,,"Shoulder adductors, right","Shoulder adductors, right",,,,,Misc,Numeric,
+4c6891a8-5224-4588-bcf0-5612c28081eb,,"Elbow flexors, left","Elbow flexors, left",,,,,Misc,Numeric,
+b1982838-71c1-427c-bcbb-5259713ab107,,"Elbow flexors, right","Elbow flexors, right",,,,,Misc,Numeric,
+a653c406-88cf-4fd3-b979-f543984a781e,,"Elbow extensors, left","Elbow extensors, left",,,,,Misc,Numeric,
+1f32e653-a0d4-46d4-9c63-c0d0e83c5a43,,"Elbow extensors, right","Elbow extensors, right",,,,,Misc,Numeric,
+697517b2-1fee-4f4d-987a-412f0bea870a,,"Wrist flexors, left","Wrist flexors, left",,,,,Misc,Numeric,
+f92736a8-9af0-4c3f-a6f3-6092e74d7570,,"Wrist flexors, right","Wrist flexors, right",,,,,Misc,Numeric,
+773fb54f-56e1-41a6-8e53-1ffaaea1b84c,,"Wrist extensors, left","Wrist extensors, left",,,,,Misc,Numeric,
+b49e3f8f-08b4-499f-8462-35db420fcb3f,,Wrist extensors right,Wrist extensors right,,,,,Misc,Numeric,
+fa3aeae8-00e1-4ed9-98a9-8dbb4c1049a1,,"Wrist abductors, left","Wrist abductors, left",,,,,Misc,Numeric,
+e70a0965-3dd1-4134-b39c-d2fc0209edc2,,"Wrist abductors, right","Wrist abductors, right",,,,,Misc,Numeric,
+a8d61266-e5c1-425d-bcf8-62ad0826c46d,,"Finger flexors, left","Finger flexors, left",,,,,Misc,Numeric,
+a5a3d4fe-a698-42f7-a180-5cc4ece0988a,,"Finger flexors, right","Finger flexors, right",,,,,Misc,Numeric,
+0c561c62-4590-4ea0-90b4-d0d4977a31cb,,"Finger extensors, left","Finger extensors, left",,,,,Misc,Numeric,
+1a8f5a9d-ee19-47b4-806a-4bc2628bf4a7,,"Finger extensors, right","Finger extensors, right",,,,,Misc,Numeric,
+b63b346e-c0ce-426c-ab5e-937604ac659d,,"Hip flexors, left","Hip flexors, left",,,,,Misc,Numeric,
+caf3a6b2-66b5-4a1e-871c-fe82c0bb128b,,"Hip flexors, right","Hip flexors, right",,,,,Misc,Numeric,
+b0993135-5448-4bc1-8700-c41f51014eb3,,"Hip extensors, left","Hip extensors, left",,,,,Misc,Numeric,
+8bdccd77-c1f3-4ec5-8ef4-f23c5dce8bfa,,"Hip extensors, right","Hip extensors, right",,,,,Misc,Numeric,
+e1d2c6cb-5dee-4a61-8729-35cce9d3b521,,"Hip abductors, left","Hip abductors, left",,,,,Misc,Numeric,
+0acb1d85-fcaa-4173-bd66-ca34d1bae277,,"Hip abductors, right","Hip abductors, right",,,,,Misc,Numeric,
+74b94215-59b0-4d20-8bca-41a869345ff0,,"Knee flexors, left","Knee flexors, left",,,,,Misc,Numeric,
+3020ef7c-6f54-4068-b635-d9265e6ce286,,"Knee flexors, right ","Knee flexors, right ",,,,,Misc,Numeric,
+d733cd23-a7f6-4d8b-9166-b08f173dcac5,,"Knee extensors, left","Knee extensors, left",,,,,Misc,Numeric,
+dfef3bdf-b7a7-4882-bb17-57af8c8f2e34,,"Knee extensors, right","Knee extensors, right",,,,,Misc,Numeric,
+101a260c-1e87-42ae-b93a-4d6f90b82cdc,,"Ankle dorsiflexors, left","Ankle dorsiflexors, left",,,,,Misc,Numeric,
+eafc18a3-19ef-4da8-8b5a-baf9bb4e04ff,,"Ankle dorsiflexors, right","Ankle dorsiflexors, right",,,,,Misc,Numeric,
+8f1fc3e2-6ed8-4bb8-b2fd-d70366b58f99,,"Ankle plantarflexors, left","Ankle plantarflexors, left",,,,,Misc,Numeric,
+a9f90f40-2c95-4e94-b2f0-65dcaaee4f3d,,"Ankle plantarflexors, right","Ankle plantarflexors, right",,,,,Misc,Numeric,
+8a2be685-1e98-4627-848e-9a682a06fae8,,"Real, left","Real, left",,,,,Misc,Numeric,
+c86b25a1-7fea-4dcb-8cf1-ba2081434cc4,,"Real, right","Real, right",,,,,Misc,Numeric,
+fa71b7b0-074d-4c88-b166-5433cde65da8,,"Apparent, left","Apparent, left",,,,,Misc,Numeric,
+fae4b655-3257-4877-b403-817914514561,,"Apparent, right","Apparent, right",,,,,Misc,Numeric,
+bbd5d48e-288b-40a7-93e1-c873e3943181,,Below ASIS left,Below ASIS left,,,,,Misc,Numeric,
+34383652-6d4d-4fd6-96b4-55be304afebf,,Below ASIS right,Below ASIS right,,,,,Misc,Numeric,
+df91db01-782d-49dd-bb29-cdff630e6403,,Below tip of patella left,Below tip of patella left,,,,,Misc,Numeric,
+7ced8f35-24af-4082-83d8-5359a950b1a2,,Below tip of patella right,Below tip of patella right,,,,,Misc,Numeric,
+b4a34909-e577-4a3d-ac88-087a155632ab,,Balance,Balance,,,,,Misc,N/A,
+aba54887-d5a8-42c1-95b7-020ceb147ee9,,Gait,Gait,,,,,Misc,N/A,
+545c1c27-ac2f-4f40-969e-95de3477133f,,Locomotion,Locomotion,,,,,Misc,N/A,
+c699b34b-2d57-4803-b202-c1a080d79e74,,Transfers,Transfers,,,,,Misc,N/A,
+d18f2e19-b5d0-441a-97cc-62ccbe20f4e9,,Transitions,Transitions,,,,,Misc,N/A,
+66a0e3e0-4754-41ab-b003-3d18cf6f7b1f,,Other Gross coordinated movements,,,,,,Misc,N/A,
+6fe5a683-502e-4dc4-9349-64bcc91c721a,,Gross coordinated movements,,,,,,Question,Coded,"Balance;
+Gait;
+Locomotion;
+Transfers;
+Transitions;
+Other Gross coordinated movements;"
+8d7e32cc-8099-4b16-aed3-30edd51bd6c1,,"Other Gross coordinated movements, specify",,,,,,Question,Text,
+c4596f8c-3f10-11e4-adec-0800271c1b75,,Present,Present,,,,,Misc,N/A,
+c459ee22-3f10-11e4-adec-0800271c1b75,,Absent,Absent,,,,,Misc,N/A,
+e611c227-3f84-4eb5-af86-723c0606675e,,Sucking Reflex (at birth),Sucking Reflex (at birth),,,,,Question,Coded,"Present;
+Absent;"
+b8524ee3-3168-4662-8ef2-b4a95e1512cd,,Moro Reflex (Birth-16 weeks or 2/12),Moro Reflex (Birth-16 weeks or 2/12),,,,,Question,Coded,"Present;
+Absent;"
+104f1f96-8d60-4d0d-b59d-af9789de3409,,Palmar Grasp Reflex (2-3 months or 5-6/12),Palmar Grasp Reflex (2-3 months or 5-6/12),,,,,Question,Coded,"Present;
+Absent;"
+6c78e34a-430c-4946-934b-1fc75541a9fb,,Stepping Reflex (3-4 months or ),Stepping Reflex (3-4 months or ),,,,,Question,Coded,"Present;
+Absent;"
+9495c553-1d72-48c2-8237-a4d5dcc1ec4b,,Landau Reflex (3 months-1 year),Landau Reflex (3 months-1 year),,,,,Question,Coded,"Present;
+Absent;"
+e91b1932-a737-4007-98ba-d67f03c8b01e,,Tonic Labyrinthine Reflex (4 months),Tonic Labyrinthine Reflex (4 months),,,,,Question,Coded,"Present;
+Absent;"
+1243937e-300f-42a7-a453-d6b785967344,,Symmetric Tonic Neck Reflex (STNR),Symmetric Tonic Neck Reflex (STNR),,,,,Question,Coded,"Present;
+Absent;"
+d986803c-c3d8-4a51-9f4c-42c054aefedc,,Asymmetric Tonic Neck Reflex (6/12 or 4/12),Asymmetric Tonic Neck Reflex (6/12 or 4/12),,,,,Question,Coded,"Present;
+Absent;"
+0fcb7fba-c05f-4d96-9887-f5f6fa982e46,,Babinski Reflex (6 months),Babinski Reflex (6 months),,,,,Question,Coded,"Present;
+Absent;"
+271da267-d255-450e-97c6-fb03725991c0,,Rooting Reflex (6-12 months or 4/12),Rooting Reflex (6-12 months or 4/12),,,,,Question,Coded,"Present;
+Absent;"
+fbd4937b-1d18-4c70-864c-63608957d27f,,Gallant Reflex (9/12 or 4-6/12),Gallant Reflex (9/12 or 4-6/12),,,,,Question,Coded,"Present;
+Absent;"
+5d26336b-df53-4f6f-adb3-2027be4e0489,,Placing Reflex,Placing Reflex,,,,,Question,Coded,"Present;
+Absent;"
+be79be19-ae51-4c1e-8bee-19b9b7b311f9,,Righting Reflex,Righting Reflex,,,,,Question,Coded,"Present;
+Absent;"
+4d902921-888e-47d0-95df-28366c37409e,,Parachute Reflex,Parachute Reflex,,,,,Question,Coded,"Present;
+Absent;"
+9a1ee758-60c3-40a1-8ef4-1ddfebbed7f9,,Plantar Reflex,Plantar Reflex,,,,,Question,Coded,"Present;
+Absent;"
+c30fa526-4f7b-4616-944b-60aee86185c9,,Ability to make needs known,,,,,,Question,Text,
+1bc7d5b2-3935-4413-ab1d-061da817fe42,,Consciousness (GCS Value),Consciousness (GCS Value),,,,,Question,Text,
+58e16aa5-3a75-47a1-b18e-59a276c19f20,,Expected emotional/behavioural responses,,,,,,Question,Text,
+753a487f-5517-4e47-b1ff-3517dedc2fc8,,Education needs,Education needs,,,,,Misc,N/A,
+0f76e8e4-d069-4509-b414-d7bcc7aa527f,,Learning barriers,Learning barriers,,,,,Misc,N/A,
+c229b887-7794-44e1-b5dd-ef8c0cf63e1c,,Other Learning preferences,,,,,,Misc,N/A,
+76f4fb2d-5354-45cf-8776-6ab560d907ff,,Learning preferences,,,,,,Question,Coded,"Education needs;
+Learning barriers;
+Other Learning preferences;"
+2ef40ca5-8d25-47a3-ae48-ac38478f826a,,"Other Learning preferences, specify",,,,,,Question,Text,
