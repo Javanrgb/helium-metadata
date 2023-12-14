@@ -1,8 +1,8 @@
 Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:28,Data class,Data type,Answers
 e605731b-2e81-41a9-8446-2ed442c339e2,,Date,Date,,,,,Misc,Date,
 5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,WEIGHT(KG),WEIGHT ( Kgs),,,,,Misc,Numeric,
-a5ab3cae-1532-4915-b055-d9f039f618ec,,Blood Pressure Reading,Blood Pressure,,,,,ConvSet,N/A,
+a5ab3cae-1532-4915-b055-d9f039f618ec,,Blood Pressure Reading,Blood Pressure,,,,,Question,Text,
 5cdf5f40-d1f7-4107-84fe-05d833403ae5,,Blood Sugar,Blood Sugar,,,,,Question,Numeric,
-6a946dcd-5183-4a98-81a2-44f2f67deb7c,,Loss,Loss,,,,,Misc,N/A,
-3d0fb5e9-08d1-4452-92b3-73ca69739d83,,Gain,Gain,,,,,Misc,N/A,
+6a946dcd-5183-4a98-81a2-44f2f67deb7c,,Loss,Loss,,,,,Question,Text,
+3d0fb5e9-08d1-4452-92b3-73ca69739d83,,Gain,Gain,,,,,Question,Text,
 c3659bf9-3f10-11e4-adec-0800271c1b75,,COMMENTS,COMMENTS,,,,,Misc,Text,
