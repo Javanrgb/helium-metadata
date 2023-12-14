@@ -1,0 +1,13 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:32,Data class,Data type,Answers
+cd9ab511-4741-4351-985b-22f292fc3eac,,X-Ray No,,,,,,Misc,Numeric,
+0c9dbf2a-9497-451b-9cb3-e203f35e8bd1,,Unit No,,,,,,Misc,Numeric,
+8cbb7301-0582-4f6a-b2a0-dcf5bc2b8f5c,,Casualty No,,,,,,Misc,Numeric,
+cab0711e-9b5e-4f84-aa46-f5386578bda5,,G.P. No,,,,,,Misc,Numeric,
+a0624c78-e339-406a-98d2-5fe494c8884f,,Ante-Natal No,,,,,,Misc,Numeric,
+208cdaed-7385-4193-9a41-5885e41f40f5,,Part of the body,,,,,,Question,Text,
+1b6af4a9-4d75-42de-9d96-a39f55e0b1c6,,Examination Requested,,,,,,Question,Text,
+a0d72a27-4455-4650-b258-603719aca116,,Has there been operation ,,,,,,Question,Boolean,
+4370c73f-401a-498c-90ed-c7cdcc4f7b66,,Previous X-Ray Examination,,,,,,Question,Boolean,
+e60d3b1a-16d5-497f-9af9-f2fc3f22c398,,Previous X-Ray Number,X-Ray Number,,,,,Question,Numeric,
+18e875df-c3f2-4901-992c-ba893bc10fd9,,M.O. Signature,,,,,,Misc,N/A,
+5322a7ff-62f0-4c45-96ef-2681d6ea2d9b,,Consultant in charge ofcase,,,,,,Misc,Text,
