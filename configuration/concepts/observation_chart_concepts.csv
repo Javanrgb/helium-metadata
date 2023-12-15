@@ -1,0 +1,9 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:30,Data class,Data type,Answers
+e605731b-2e81-41a9-8446-2ed442c339e2,,Date,Date,,,,,Misc,Date,
+c37bd733-3f10-11e4-adec-0800271c1b75,,Temperature,Temperature,,,,,Misc,Numeric,
+1767191f-8871-4dd7-8c71-8587f73e5e7d,,RESPIRATION,RESPIRATION,,,,,Misc,N/A,
+579f38a9-169c-47c8-a5c8-16d89cf14832,,RESPONSE TO CALL,RESPONSE TO CALL,,,,,Misc,N/A,
+988bdce3-4990-4fd9-8b11-79065d50ef51,,RESPONSE TO STIMULI,RESPONSE TO STIMULI,,,,,Misc,N/A,
+afcc407b-e491-42b8-b12b-eea00e75232a,,RESPONSE TO PIN-PRINCK,RESPONSE TO PIN-PRINCK,,,,,Misc,N/A,
+9b638214-8c99-4121-a639-6c745b9e8ee1,,REMARKS,REMARKS,,,,,Misc,Text,
+428739da-1fb3-44f7-8fbf-6eb10b86cf09,,SIGNATURE,SIGNATURE,,,,,Misc,Text,
