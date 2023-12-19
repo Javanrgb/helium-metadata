@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:34,Data class,Data type,Answers
+eab16312-94f0-43fa-9d61-2c582f7a7974,,Drug Administration Date,Date,,,,,Question,Date,
+522bc61a-7834-4a89-9dfb-820f1f6daf82,,Time of Drug Administration,Time,,,,,Misc,Time,
+37c7b740-7a04-4014-b5fc-887768626db6,,Drugs Administered,Drugs,,,,,Misc,Text,
+2201c460-0f0d-4608-a09a-caf70921af9d,,Name of Administering Nurse,,,,,,Question,Text,
