@@ -1,0 +1,13 @@
+Uuid,Void/Retire,Fully specified name:en,Short name:en,Description:en,...,_version:1,_order:33,Data class,Data type,Answers
+92a34a30-a7f5-44b4-bef2-1682b9b58bea,,Next of kin or Relative,,,,,,Question,Text,
+97ebb351-9d55-4251-b27e-160193a2554c,,Maritual Status,Marital Status,,,,,Question,Coded,
+da847554-b0e2-4a8c-bed8-9fd4dbd89dd5,,Booked/Non-Booked,,,,,,Question,Text,
+93519dac-4e2d-44c4-ac10-3336f7331a83,,Admitted ,,,,,,Question,Text,
+ff5ca1e4-bdf4-456c-af21-42218a88214e,,Delivered,,,,,,Question,Text,
+5c6f2337-a46a-45e3-a033-eb3fa99fb0c1,,Discharged,,,,,,Question,Text,
+279583bf-70d4-40b5-82e9-6cb29fbe00b4,,Pregnancy,,,,,,Misc,	N/A,
+c22666ac-3f10-11e4-adec-0800271c1b75,,Labour,Labour,,,,,Question,Text,
+324f7f39-15c5-462d-b77d-3f257dd76092,,Puerperium,,,,,,Question,Text,
+"e5c2ad24-9d48-4007-9015-29c20f3a85d5",,Child,,,,,,Question,Text,
+c030e853-8cfc-46fe-abc4-0b9c2a7801c4,,Autopsy,,,,,,Question,Text,
+e1cc77a4-f978-4889-bea1-e7974888ac6d,,Special Remarks,,,,,,Question,Text,
