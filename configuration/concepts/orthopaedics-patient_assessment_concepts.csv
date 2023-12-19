@@ -111,34 +111,35 @@ Apparent;"
 be677aa8-fe4e-44ad-92de-af89a7319eef,,Lower limb girth,,,,,,Question,Coded,"Below ASIS;
 Below tip of patella;"
 7b6f620c-9272-4e1f-bcfd-140eab23fbd3,,"Gross coordinated movements (eg. balance, gait, locomotion, transfers and transitions)",,,,,,Question,Text,
-db82c7c2-85c7-4148-9933-6e40a6eb2bf3,,C1: Head forward nodding (subcranial FB),,,,,,Misc,N/A,
-78804218-cb18-4c3a-a1bc-9da162c25b63,,C2: Head backward nodding (subcranial BB),,,,,,Misc,N/A,
-2d8b75c3-e605-43d7-8b93-ffe6a99ec3ad,,C3: C-spine lateral flexion,,,,,,Misc,N/A,
-a337dd35-6193-4021-b4d0-7bcb0beba044,,C4: Shoulder shrug,,,,,,Misc,N/A,
-26e6e07f-c023-4b3c-9c3d-91b1fcab05da,,C5: Shoulder abduction,,,,,,Misc,N/A,
-cddf7074-5901-4918-afd7-67f92aff083f,,C6: Elbow flexion,,,,,,Misc,N/A,
-25259d55-b7aa-4b60-8f5d-f315187fc556,,C7: Elbow Extension,,,,,,Misc,N/A,
-b1f7b431-703f-4857-84d7-04aca6633396,,C8: Finger flexion,,,,,,Misc,N/A,
-ccf47009-602e-40cb-9d5f-4baebdb13bcd,,T1: Finger abduction,,,,,,Misc,N/A,
-a445c8b7-09e5-4ffa-83a9-cece102154e0,,L1 / L2: Hip flexion,,,,,,Misc,N/A,
-3d68b929-69ab-4732-81fb-28442fa84c24,,L3: Knee extension,,,,,,Misc,N/A,
-29e2a597-3c5b-48dc-a96d-8eb024c68a82,,L4: Ankle dorsiflexion (heel walking),,,,,,Misc,N/A,
-a9e20c48-e267-492d-8493-6b6890a1bb6f,,L5: Extension of big toe,,,,,,Misc,N/A,
-84235aed-e16b-4af0-8991-bb5dc6367e04,,S1: Ankle plantar flexion (toe walking),,,,,,Misc,N/A,
-0654c8bf-ee3d-46e6-883a-cc5678f6964d,,Motor function (motor control and motor learning),,,,,,Question,Coded,"C1: Head forward nodding (subcranial FB);
-C2: Head backward nodding (subcranial BB);
-C3: C-spine lateral flexion;
-C4: Shoulder shrug;
-C5: Shoulder abduction;
-C6: Elbow flexion;
-C7: Elbow Extension;
-C8: Finger flexion;
-T1: Finger abduction;
-L1 / L2: Hip flexion;
-L3: Knee extension;
-L4: Ankle dorsiflexion (heel walking);
-L5: Extension of big toe;
-S1: Ankle plantar flexion (toe walking);"
+db82c7c2-85c7-4148-9933-6e40a6eb2bf1,,"C1: Head forward nodding (subcranial FB), Right",,,,,,Misc,Text,
+3e0ded54-accb-4026-84d6-98b4574f562c,,"C1: Head forward nodding (subcranial FB), Left",,,,,,Misc,Text,
+78804218-cb18-4c3a-a1bc-9da162c25b61,,"C2: Head backward nodding (subcranial BB), Right",,,,,,Misc,Text,
+45170f19-707f-4fbb-9c22-434c2dc098ec,,"C2: Head backward nodding (subcranial BB), Left",,,,,,Misc,Text,
+2d8b75c3-e605-43d7-8b93-ffe6a99ec3ac,,"C3: C-spine lateral flexion, Right",,,,,,Misc,Text,
+fd42a144-94ff-40e3-8edc-35034915aafe,,"C3: C-spine lateral flexion, Left",,,,,,Misc,Text,
+a337dd35-6193-4021-b4d0-7bcb0beba045,,"C4: Shoulder shrug, Right",,,,,,Misc,Text,
+783f3b21-6c3c-4cd7-a17b-9e87dd9bca33,,"C4: Shoulder shrug, Left",,,,,,Misc,Text,
+26e6e07f-c023-4b3c-9c3d-91b1fcab05dd,,"C5: Shoulder abduction, Right",,,,,,Misc,Text,
+567f23ea-61af-44d1-b5fa-d3c705d91df0,,"C5: Shoulder abduction, Left",,,,,,Misc,Text,
+cddf7074-5901-4918-afd7-67f92aff083k,,"C6: Elbow flexion, Right",,,,,,Misc,Text,
+19585c3b-83a9-4bb5-9b19-512df122f271,,"C6: Elbow flexion, Left",,,,,,Misc,Text,
+25259d55-b7aa-4b60-8f5d-f315187fc557,,"C7: Elbow Extension, Right",,,,,,Misc,Text,
+d5232699-8620-4443-b8a5-65e9fa62478b,,"C7: Elbow Extension, Left",,,,,,Misc,Text,
+b1f7b431-703f-4857-84d7-04aca6633395,,"C8: Finger flexion, Right",,,,,,Misc,Text,
+33e0a62b-7376-44a5-ab8d-fd3aafea8b72,,"C8: Finger flexion, Left",,,,,,Misc,Text,
+ccf47009-602e-40cb-9d5f-4baebdb13bcg,,"T1: Finger abduction, Right",,,,,,Misc,Text,
+42492f6b-c767-4a1c-a1cc-3fcf91b24b66,,"T1: Finger abduction, Left",,,,,,Misc,Text,
+a445c8b7-09e5-4ffa-83a9-cece102154er,,"L1 / L2: Hip flexion, Right",,,,,,Misc,Text,
+de0ba97e-e4d5-4149-8d9e-6925fc378c74,,"L1 / L2: Hip flexion, Left",,,,,,Misc,Text,
+3d68b929-69ab-4732-81fb-28442fa84c25,,"L3: Knee extension, Right",,,,,,Misc,Text,
+b0f40713-6d14-40b6-9b1c-b81ee11283fb,,"L3: Knee extension, Left",,,,,,Misc,Text,
+29e2a597-3c5b-48dc-a96d-8eb024c68a84,,"L4: Ankle dorsiflexion (heel walking), Right",,,,,,Misc,Text,
+db2fca26-c982-4c09-bffd-90826d30a229,,"L4: Ankle dorsiflexion (heel walking), Left",,,,,,Misc,Text,
+a9e20c48-e267-492d-8493-6b6890a1bb6p,,"L5: Extension of big toe, Right",,,,,,Misc,Text,
+6fd57f10-38e6-474a-8418-98537e0c251b,,"L5: Extension of big toe, Left",,,,,,Misc,Text,
+84235aed-e16b-4af0-8991-bb5dc6367e04,,"S1: Ankle plantar flexion (toe walking), Right",,,,,,Misc,Text,
+d3f84fa9-9857-4188-af4b-44653181a5db,,"S1: Ankle plantar flexion (toe walking), Left",,,,,,Misc,Text,
+0654c8bf-ee3d-46e6-883a-cc5678f6964d,,Motor function (motor control and motor learning),,,,,,Misc,N/A,
 2d7cd0fc-fd8b-4056-90e3-54e3ff3a1271,,Biceps jerk (C5),,,,,,Question,Text,
 c91d6b8a-2500-4ba0-9c1c-b6ef744abca3,,Brachioradialis Jerk (C6),,,,,,Question,Text,
 c5b27991-17a4-4074-95ee-56f0b20a3bb7,,Triceps Jerk (C7),,,,,,Question,Text,
